@@ -13,7 +13,7 @@
 config-version: 3
 
 # The list of ranks.
-ranks:
+ranks: Owner, Admin, Mod, JrMod
   # The ID of the GROUP, AS IN YOUR PERMISSION PLUGIN.
   example:
     # The slot that this rank will appear in.
